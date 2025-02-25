@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+pyodbc
+pydantic
+azure-identity
+azure-keyvault-secrets
+gunicorn
