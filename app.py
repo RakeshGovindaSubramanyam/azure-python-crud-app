@@ -5,7 +5,7 @@ from fastapi.responses import RedirectResponse
 
 app = FastAPI(title="In-Memory CRUD API")
 
-# In-memory storage
+#In-memory storage
 items_db = []
 item_id_counter = 1
 
